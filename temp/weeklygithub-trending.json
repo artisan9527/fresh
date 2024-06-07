@@ -1,0 +1,146 @@
+[
+  {
+    "projectName": "fabric",
+    "projectLink": "/danielmiessler/fabric",
+    "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "programmingLanguage": "Python",
+    "stars": 14902,
+    "forks": 1541,
+    "starsToday": 2
+  },
+  {
+    "projectName": "MiniCPM-V",
+    "projectLink": "/OpenBMB/MiniCPM-V",
+    "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+    "programmingLanguage": "Python",
+    "stars": 6548,
+    "forks": 451,
+    "starsToday": 2
+  },
+  {
+    "projectName": "xiaoju-survey",
+    "projectLink": "/didi/xiaoju-survey",
+    "description": "「快速」打造「专属」问卷系统, 让调研「更轻松」",
+    "programmingLanguage": "TypeScript",
+    "stars": 1703,
+    "forks": 198,
+    "starsToday": 414
+  },
+  {
+    "projectName": "duckdb",
+    "projectLink": "/duckdb/duckdb",
+    "description": "DuckDB is an analytical in-process SQL database management system",
+    "programmingLanguage": "C++",
+    "stars": 18618,
+    "forks": 1552,
+    "starsToday": 990
+  },
+  {
+    "projectName": "posthog",
+    "projectLink": "/PostHog/posthog",
+    "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+    "programmingLanguage": "Python",
+    "stars": 18718,
+    "forks": 1098,
+    "starsToday": 792
+  },
+  {
+    "projectName": "revanced-patches",
+    "projectLink": "/ReVanced/revanced-patches",
+    "description": "🧩 Patches for ReVanced",
+    "programmingLanguage": "Kotlin",
+    "stars": 1839,
+    "forks": 209,
+    "starsToday": 367
+  },
+  {
+    "projectName": "googletest",
+    "projectLink": "/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "programmingLanguage": "C++",
+    "stars": 33480,
+    "forks": 9956,
+    "starsToday": 167
+  },
+  {
+    "projectName": "cognita",
+    "projectLink": "/truefoundry/cognita",
+    "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+    "programmingLanguage": "Python",
+    "stars": 2571,
+    "forks": 195,
+    "starsToday": 425
+  },
+  {
+    "projectName": "lazy.nvim",
+    "projectLink": "/folke/lazy.nvim",
+    "description": "💤 A modern plugin manager for Neovim",
+    "programmingLanguage": "Lua",
+    "stars": 12383,
+    "forks": 294,
+    "starsToday": 228
+  },
+  {
+    "projectName": "mamba",
+    "projectLink": "/state-spaces/mamba",
+    "description": "Mamba SSM architecture",
+    "programmingLanguage": "Python",
+    "stars": 10825,
+    "forks": 864,
+    "starsToday": 547
+  },
+  {
+    "projectName": "LazyVim",
+    "projectLink": "/LazyVim/LazyVim",
+    "description": "Neovim config for the lazy",
+    "programmingLanguage": "Lua",
+    "stars": 14018,
+    "forks": 942,
+    "starsToday": 228
+  },
+  {
+    "projectName": "Python-100-Days",
+    "projectLink": "/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "programmingLanguage": "Python",
+    "stars": 151372,
+    "forks": 51482,
+    "starsToday": 516
+  },
+  {
+    "projectName": "my-tv",
+    "projectLink": "/lizongying/my-tv",
+    "description": "我的电视 电视直播软件，安装即可使用",
+    "programmingLanguage": "C",
+    "stars": 27553,
+    "forks": 3087,
+    "starsToday": 578
+  },
+  {
+    "projectName": "syncthing",
+    "projectLink": "/syncthing/syncthing",
+    "description": "Open Source Continuous File Synchronization",
+    "programmingLanguage": "Go",
+    "stars": 61148,
+    "forks": 4084,
+    "starsToday": 875
+  },
+  {
+    "projectName": "vanna",
+    "projectLink": "/vanna-ai/vanna",
+    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+    "programmingLanguage": "Python",
+    "stars": 7762,
+    "forks": 574,
+    "starsToday": 211
+  },
+  {
+    "projectName": "aider",
+    "projectLink": "/paul-gauthier/aider",
+    "description": "aider is AI pair programming in your terminal",
+    "programmingLanguage": "Python",
+    "stars": 10901,
+    "forks": 1045,
+    "starsToday": 399
+  }
+]

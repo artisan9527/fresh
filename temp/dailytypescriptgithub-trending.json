@@ -1,0 +1,164 @@
+[
+  {
+    "projectName": "directus",
+    "projectLink": "/directus/directus",
+    "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+    "programmingLanguage": "TypeScript",
+    "stars": 25976,
+    "forks": 3608,
+    "starsToday": 35
+  },
+  {
+    "projectName": "Flowise",
+    "projectLink": "/FlowiseAI/Flowise",
+    "description": "Drag & drop UI to build your customized LLM flow",
+    "programmingLanguage": "TypeScript",
+    "stars": 26317,
+    "forks": 13422,
+    "starsToday": 210
+  },
+  {
+    "projectName": "shadcn-table",
+    "projectLink": "/sadmann7/shadcn-table",
+    "description": "A shadcn table component with server-side sorting, filtering, and pagination.",
+    "programmingLanguage": "TypeScript",
+    "stars": 1896,
+    "forks": 164,
+    "starsToday": 24
+  },
+  {
+    "projectName": "vscode",
+    "projectLink": "/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "programmingLanguage": "TypeScript",
+    "stars": 159437,
+    "forks": 27909,
+    "starsToday": 65
+  },
+  {
+    "projectName": "BlockNote",
+    "projectLink": "/TypeCellOS/BlockNote",
+    "description": "A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.",
+    "programmingLanguage": "TypeScript",
+    "stars": 5597,
+    "forks": 350,
+    "starsToday": 50
+  },
+  {
+    "projectName": "mi-gpt",
+    "projectLink": "/idootop/mi-gpt",
+    "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+    "programmingLanguage": "TypeScript",
+    "stars": 1644,
+    "forks": 112,
+    "starsToday": 658
+  },
+  {
+    "projectName": "renovate",
+    "projectLink": "/renovatebot/renovate",
+    "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+    "programmingLanguage": "TypeScript",
+    "stars": 16291,
+    "forks": 2084,
+    "starsToday": 19
+  },
+  {
+    "projectName": "expo",
+    "projectLink": "/expo/expo",
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "programmingLanguage": "TypeScript",
+    "stars": 30222,
+    "forks": 4744,
+    "starsToday": 34
+  },
+  {
+    "projectName": "vuetify",
+    "projectLink": "/vuetifyjs/vuetify",
+    "description": "🐉 Vue Component Framework",
+    "programmingLanguage": "TypeScript",
+    "stars": 39196,
+    "forks": 6932,
+    "starsToday": 8
+  },
+  {
+    "projectName": "nuxt",
+    "projectLink": "/nuxt/nuxt",
+    "description": "The Intuitive Vue Framework.",
+    "programmingLanguage": "TypeScript",
+    "stars": 52642,
+    "forks": 4817,
+    "starsToday": 17
+  },
+  {
+    "projectName": "lexical",
+    "projectLink": "/facebook/lexical",
+    "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+    "programmingLanguage": "TypeScript",
+    "stars": 17732,
+    "forks": 1487,
+    "starsToday": 24
+  },
+  {
+    "projectName": "Rocket.Chat.ReactNative",
+    "projectLink": "/RocketChat/Rocket.Chat.ReactNative",
+    "description": "Rocket.Chat mobile clients",
+    "programmingLanguage": "TypeScript",
+    "stars": 1898,
+    "forks": 1136,
+    "starsToday": 2
+  },
+  {
+    "projectName": "Rocket.Chat",
+    "projectLink": "/RocketChat/Rocket.Chat",
+    "description": "The communications platform that puts data protection first.",
+    "programmingLanguage": "TypeScript",
+    "stars": 39143,
+    "forks": 10019,
+    "starsToday": 11
+  },
+  {
+    "projectName": "OpenMetadata",
+    "projectLink": "/open-metadata/OpenMetadata",
+    "description": "OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration.",
+    "programmingLanguage": "TypeScript",
+    "stars": 4384,
+    "forks": 881,
+    "starsToday": 9
+  },
+  {
+    "projectName": "lobe-chat",
+    "projectLink": "/lobehub/lobe-chat",
+    "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+    "programmingLanguage": "TypeScript",
+    "stars": 32238,
+    "forks": 7697,
+    "starsToday": 64
+  },
+  {
+    "projectName": "nextui",
+    "projectLink": "/nextui-org/nextui",
+    "description": "🚀 Beautiful, fast and modern React UI library.",
+    "programmingLanguage": "TypeScript",
+    "stars": 19938,
+    "forks": 1148,
+    "starsToday": 29
+  },
+  {
+    "projectName": "grafana",
+    "projectLink": "/grafana/grafana",
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "programmingLanguage": "TypeScript",
+    "stars": 61018,
+    "forks": 11650,
+    "starsToday": 20
+  },
+  {
+    "projectName": "react-native-paper",
+    "projectLink": "/callstack/react-native-paper",
+    "description": "Material Design for React Native (Android & iOS)",
+    "programmingLanguage": "TypeScript",
+    "stars": 12396,
+    "forks": 2042,
+    "starsToday": 8
+  }
+]

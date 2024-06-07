@@ -1,0 +1,101 @@
+[
+  {
+    "projectName": "generative-ai-for-beginners",
+    "projectLink": "/microsoft/generative-ai-for-beginners",
+    "description": "18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+    "programmingLanguage": "Jupyter Notebook",
+    "stars": 46091,
+    "forks": 25346,
+    "starsToday": 500
+  },
+  {
+    "projectName": "Scrapegraph-ai",
+    "projectLink": "/VinciGit00/Scrapegraph-ai",
+    "description": "Python scraper based on AI",
+    "programmingLanguage": "Python",
+    "stars": 10981,
+    "forks": 836,
+    "starsToday": 280
+  },
+  {
+    "projectName": "MiniCPM-V",
+    "projectLink": "/OpenBMB/MiniCPM-V",
+    "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+    "programmingLanguage": "Python",
+    "stars": 6543,
+    "forks": 451,
+    "starsToday": 612
+  },
+  {
+    "projectName": "mamba",
+    "projectLink": "/state-spaces/mamba",
+    "description": "Mamba SSM architecture",
+    "programmingLanguage": "Python",
+    "stars": 10824,
+    "forks": 863,
+    "starsToday": 181
+  },
+  {
+    "projectName": "duckdb",
+    "projectLink": "/duckdb/duckdb",
+    "description": "DuckDB is an analytical in-process SQL database management system",
+    "programmingLanguage": "C++",
+    "stars": 18617,
+    "forks": 1552,
+    "starsToday": 168
+  },
+  {
+    "projectName": "directus",
+    "projectLink": "/directus/directus",
+    "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+    "programmingLanguage": "TypeScript",
+    "stars": 25976,
+    "forks": 3608,
+    "starsToday": 35
+  },
+  {
+    "projectName": "puter",
+    "projectLink": "/HeyPuter/puter",
+    "description": "🌐 The Web OS! Free, Open-Source, and Self-Hostable.",
+    "programmingLanguage": "JavaScript",
+    "stars": 19778,
+    "forks": 1215,
+    "starsToday": 85
+  },
+  {
+    "projectName": "RemoveAdblockThing",
+    "projectLink": "/TheRealJoelmatic/RemoveAdblockThing",
+    "description": "The intrusive \"Ad blocker are not allowed on YouTube\" message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection",
+    "programmingLanguage": "JavaScript",
+    "stars": 5562,
+    "forks": 299,
+    "starsToday": 229
+  },
+  {
+    "projectName": "Sunshine",
+    "projectLink": "/LizardByte/Sunshine",
+    "description": "Self-hosted game stream host for Moonlight.",
+    "programmingLanguage": "C++",
+    "stars": 14222,
+    "forks": 687,
+    "starsToday": 125
+  },
+  {
+    "projectName": "bitcoin",
+    "projectLink": "/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "programmingLanguage": "C++",
+    "stars": 76799,
+    "forks": 35479,
+    "starsToday": 38
+  },
+  {
+    "projectName": "openssl",
+    "projectLink": "/openssl/openssl",
+    "description": "TLS/SSL and crypto library",
+    "programmingLanguage": "C",
+    "stars": 24595,
+    "forks": 9867,
+    "starsToday": 28
+  }
+]
